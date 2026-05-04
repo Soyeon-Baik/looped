@@ -4,7 +4,6 @@ AI agent that tells you what's actually true inside your company — right now.
 Internal knowledge is scattered across Google Docs, Confluence, Slack, and GitHub. Ask "how does our system work today?" and you get three docs that contradict each other, with no signal of which one is current.
 Looped synthesizes fragmented internal documents into a single trusted answer — detecting conflicts, reasoning about freshness, and citing every claim so teams stop building on the wrong source of truth.
 
-Note: Amazon Quick (launched April 2026) validates this problem space. Looped was designed independently in 2026 February as part of an AI PM program, with a focus on conflict detection and document trust layers — capabilities not present in general-purpose AI assistants.
 
 ## Core capabilities (MVP)
 Natural language Q&A grounded in your internal docs
